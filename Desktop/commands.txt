@@ -1,0 +1,41 @@
+sudo 	Runs a commands as Super User
+
+yum 	Lets you install software and packages
+
+ls 	List Directory Contents
+
+cd 	Change Directory
+
+pwd 	Display pathname
+
+mv 	Rename or move files
+
+cp 	Copy files or directory
+
+mkdir 	Make Directory
+
+rm 	Delete files or folders
+
+who 	Checks who is logged on
+
+clear 	Clear terminal window
+
+systemctl
+(start/stop/enable/disable) 	Manages OS services and start-ups
+
+firewall-cmd 	CentOS Firewall
+
+nano 	Text editor
+
+tar 	Unzips tar archives(+more)
+
+unzip 	Unzips an archived folder
+
+chmod 	Change file permissions
+
+chown 	Changes owner of a file or folder 	
+
+su      for root then ask for password
+
+
+
